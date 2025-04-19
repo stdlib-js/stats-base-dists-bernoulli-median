@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0f3d5f4`](https://github.com/stdlib-js/stdlib/commit/0f3d5f4d29ea7e98d99514a65955c27977aeff36) - **chore:** clean-up _(by Athan Reines)_
 -   [`9a3b220`](https://github.com/stdlib-js/stdlib/commit/9a3b220d5b394ff83d6e486f9b10d8f398200b0f) - **feat:** add C implementation for `stats/base/dists/bernoulli/median` [(#3452)](https://github.com/stdlib-js/stdlib/pull/3452) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
