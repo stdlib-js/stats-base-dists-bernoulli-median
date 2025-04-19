@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-04-19)
+
+<section class="features">
+
+### Features
+
+-   [`9a3b220`](https://github.com/stdlib-js/stdlib/commit/9a3b220d5b394ff83d6e486f9b10d8f398200b0f) - add C implementation for `stats/base/dists/bernoulli/median` [(#3452)](https://github.com/stdlib-js/stdlib/pull/3452)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3415](https://github.com/stdlib-js/stdlib/issues/3415)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`9a3b220`](https://github.com/stdlib-js/stdlib/commit/9a3b220d5b394ff83d6e486f9b10d8f398200b0f) - **feat:** add C implementation for `stats/base/dists/bernoulli/median` [(#3452)](https://github.com/stdlib-js/stdlib/pull/3452) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
 
@@ -25,10 +48,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
+-   Vivek Maurya
 
 </section>
 
